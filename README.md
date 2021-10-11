@@ -18,5 +18,5 @@ The purpose of the new analysis is to determine the number of retiring employees
 - ![count of learner by title](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/learners%20by%20title.png)
 - ![code for count of learner by title](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/code%20for%20learner%20title%20count.png)
 - This code is provides the count of learners by title. When compared to the table of employees' about to retire, a clear deficit will occur when the "silver tsunami" starts.
-- we can also search for the list of learners by dept with the code provided below
+- Code to search for the list of learners by dept with the code provided below
 - ![code for count of learner by dept](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/query%20for%20learner%20dept.png)
