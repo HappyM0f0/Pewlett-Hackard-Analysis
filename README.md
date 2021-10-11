@@ -18,6 +18,8 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 - 90,398 positions will need to be filled as the "silver tsunami" begins.
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 - 1,549 emplyees are eligible to be Mentored of the 240,124 current employees. Although there are enough Mentors available, the available learns is only .6% of the company.
-![count of learner by title](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/learners%20by%20title.png)
+- ![count of learner by title](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/learners%20by%20title.png)
 - below is the code for the above table
-![code for count of learner by title](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/code%20for%20learner%20title%20count.png)
+- ![code for count of learner by title](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/code%20for%20learner%20title%20count.png)
+- we can also search for the list of learners by dept
+- ![code for count of learner by dept](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/query%20for%20learner%20dept.png)
