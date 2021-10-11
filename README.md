@@ -7,7 +7,7 @@ The purpose of the new analysis is to determine the number of retiring employees
 - Created Table of employees born between January 1, 1952 and December 31, 1955
 - Due to promotions, a table was created to contain only the employees' most recent title
 - Created Table containing the count of Retiring Employees by Title
-![title retirement count](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/Retiring%20titles.png)
+- ![title retirement count](https://github.com/HappyM0f0/Pewlett-Hackard-Analysis/blob/main/images/Retiring%20titles.png)
 - Created Table of employees eligible for the Mentorship Program who where born between January 1, 1965 and Decemeber 31, 1965
 
 # Summary:
